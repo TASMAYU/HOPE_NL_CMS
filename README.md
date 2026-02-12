@@ -7,12 +7,12 @@ PyTorch implementation of the Continuum Multi-Timescale Memory System (CMS) intr
 This repository implements and evaluates the Continuum Multi-Timescale Memory System (CMS) proposed in:
 Ali Behrouz et al., Nested Learning: The Illusion of Deep Learning Architectures, NeurIPS 2025.
 
-#Nested Learning perspective
+## Nested Learning perspective
 Neural architectures and optimizers are viewed as nested optimization processes operating at different update frequencies.
 Each process acts as an associative memory that compresses information from its own temporal context.
 
 
-#Continuum Multi-Timescale Memory System (CMS)
+## Continuum Multi-Timescale Memory System (CMS)
 CMS distributes memory across multiple parameter blocks, each updated at a distinct frequency:
 
 -->Fast blocks adapt quickly to recent data
