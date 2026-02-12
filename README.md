@@ -16,4 +16,5 @@ Each process acts as an associative memory that compresses information from its 
 CMS distributes memory across multiple parameter blocks, each updated at a distinct frequency:
 
 -->Fast blocks adapt quickly to recent data
+
 -->Slow blocks evolve gradually and retain long-term knowledge
