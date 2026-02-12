@@ -4,7 +4,7 @@
 PyTorch implementation of the Continuum Multi-Timescale Memory System (CMS) introduced in Nested Learning: The Illusion of Deep Learning Architectures (NeurIPS 2025), together with controlled continual-learning experiments analyzing its impact on catastrophic forgetting.
 
 # First section of this repo implements 
-This repository implements and evaluates the Continuum Multi-Timescale Memory System (CMS) proposed in:
+The first section of this repository implements and evaluates the Continuum Multi-Timescale Memory System (CMS) proposed in:
 Ali Behrouz et al., Nested Learning: The Illusion of Deep Learning Architectures, NeurIPS 2025.
 
 ## Nested Learning perspective
