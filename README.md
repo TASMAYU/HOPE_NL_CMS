@@ -1,4 +1,4 @@
-# HOPE_NL_CMS
+# NESTED LEARNING ARCHITECTURE (HOPE)
  
 ## Continuum Multi-Timescale Memory System (CMS) for Continual Learning
 PyTorch implementation of the Continuum Multi-Timescale Memory System (CMS) introduced in Nested Learning: The Illusion of Deep Learning Architectures (NeurIPS 2025), together with controlled continual-learning experiments analyzing its impact on catastrophic forgetting.
